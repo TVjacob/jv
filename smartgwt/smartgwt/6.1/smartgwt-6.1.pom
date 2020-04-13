@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 08 12:34:21 EAT 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1460361337386
+file\://C\:\\Users\\swizima\\.m2/.lastUpdated=1504591313294
+http\://repo.maven.apache.org/maven2/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1510133661993
+file\://C\:\\Users\\swizima\\.m2/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.smartgwt\:smartgwt\:pom\:6.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

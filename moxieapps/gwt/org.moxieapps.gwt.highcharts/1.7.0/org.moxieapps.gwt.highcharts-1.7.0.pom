@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 24 01:39:18 EAT 2017
+file\://C\:\\Users\\swizima\\.m2/.lastUpdated=1513983933839
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1514068758065
+file\://C\:\\Users\\swizima\\.m2/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.moxieapps.gwt\:org.moxieapps.gwt.highcharts\:pom\:1.7.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
